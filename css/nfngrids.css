@@ -40,7 +40,7 @@ body {
 .container {padding-left: 20px;padding-right: 20px;}
 .grid {background: none; margin: 0 0 20px 0;}
 .grid:after {content: ""; display: table; clear: both;}
-[class*='box-'] {float: left; padding-right: 20px; height:100px; }
+[class*='box-'] {float: left; padding-right: 20px; height:100px;}
 .grid [class*='box-']:last-of-type {padding-right: 0;}
 .box-1-1 {width: 100%;}
 .box-2-3 {width: 66.66%;}
