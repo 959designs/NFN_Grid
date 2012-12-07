@@ -17,3 +17,9 @@ More info coming hence forth, along with more commits
 About Me
 --------
 My name is Steve Stillwell.  I run a small design shop called NINEFIFTYNINE Designs.  I've lurked long enough so I figure it's time to give back.  Hit me up at steve@959designs.com
+
+About NINEFIFTYNINE
+-------------------
+I help small businesses get off the ground with web development and traditional marketing.  I'm not out to change the world.  Only to make it easier for the little guy to get ahead.  Hop over to www.959designs.com to see our latest work and to get in touch if you see something that strikes a chord.
+
+Cheers
