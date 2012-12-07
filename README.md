@@ -1,6 +1,6 @@
 NFN_Grid
 ========
-A simple flexible grid for responsive web design
+A simple flexible grid for responsive web design.  There are no limits as long as you can use a calculator.  Enjoy!
 
 Basic Info and guides
 ---------------------
